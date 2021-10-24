@@ -1,3 +1,5 @@
+**Note: Gomocalc is now open source!** Please refer to https://github.com/dhbloo/gomoku-calculator.
+
 **Note: This github pages is now hosted at [gomocalc.com](https://gomocalc.com)**. This repo is served as a mirror site.
 
 ## Gomoku Calculator
